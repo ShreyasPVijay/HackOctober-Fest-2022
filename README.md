@@ -12,5 +12,5 @@ This Repository is made to give beginners a head start for hacktoberfest, and to
 
 ## I'll make sure to merge it❤
 
-#Happy Coding!✨
+# Happy Coding!✨
 ## Cheers!!!
